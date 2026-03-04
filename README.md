@@ -6,3 +6,8 @@ Mars_CODET_211.csv
 Mars_CODET_284.csv
 
 Each file contains Date and SSI (W/m^2/nm) daily values.
+
+Rodríguez-Gómez JM (2025) Solar spectral
+irradiance from the CODET model for studying planetary exospheres: Earth and Mars.
+Front. Astron. Space Sci. 12:1638510.
+doi: 10.3389/fspas.2025.1638510
