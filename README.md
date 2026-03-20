@@ -7,6 +7,11 @@ Mars_CODET_284.csv
 
 Each file contains Date and SSI (W/m^2/nm) daily values.
 
+plot_maven_codet10_11.png => Figure.SSI time series at 28.4 nm and 
+21.1 nm from the CODETMars model (gray dotted line) and the MAVEN/EUVM
+time series at 28.5 nm and 21.5 nm (red line) from 19 October 2014 to 20 April 2024.
+
+
 Rodríguez-Gómez JM (2025) Solar spectral
 irradiance from the CODET model for studying planetary exospheres: Earth and Mars.
 Front. Astron. Space Sci. 12:1638510.
